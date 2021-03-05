@@ -1,2 +1,2 @@
-#.githuh.io
+#.github.io
 
